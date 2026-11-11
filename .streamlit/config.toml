@@ -1,6 +1,2 @@
 [browser]
 gatherUsageStats = false
-
-[server]
-port = 8501
-headless = false        # false = Streamlit opens the browser automatically
